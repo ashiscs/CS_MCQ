@@ -1,0 +1,22 @@
+1. Which of the following is an advantage of adjacency list representation over adjacency matrix representation of a graph?
+
+A. In adjacency list representation, space is saved for sparse graphs.
+B. DFS and BSF can be done in O(V + E) time for adjacency list representation. These operations take O(V^2) time in adjacency matrix representation. Here is V and E are number of vertices and edges respectively.
+C. Adding a vertex in adjacency list representation is easier than adjacency matrix representation.
+D. All of the above
+
+Ans = D
+
+The degree sequence of a simple graph is the sequence of the degrees of the nodes in the graph in decreasing order. Which of the following sequences can not be the degree sequence of any graph?
+
+I. 7, 6, 5, 4, 4, 3, 2, 1
+II. 6, 6, 6, 6, 3, 3, 2, 2
+III. 7, 6, 6, 4, 4, 3, 2, 2
+IV. 8, 7, 7, 6, 4, 2, 1, 1
+
+(A) I and II
+(B) III and IV
+(C) IV only
+(D) II and IV
+
+Ans = D
